@@ -5,11 +5,8 @@ A Colorado Board of Elections employee, Tom, has given me the following tasks to
 
 1. Total number of votes cast
 1. Total number of votes each candidate received
-<<<<<<< HEAD
 1. Total number of votes for each county and the percentage total
 1. The largest county turnout
-=======
->>>>>>> fdd41b2ba234b1a8012fc9a3903a153b6533ab4f
 1. Percentage of votes each candidate won
 1. The winner of the election based on popular vote
 
@@ -19,7 +16,6 @@ A Colorado Board of Elections employee, Tom, has given me the following tasks to
 
 ## Summary
 The analysis of the election show that:
-<<<<<<< HEAD
 - There were 369,711 votes cast in the election
 - The cadididates were:
 	- Charles Casper Stockham
@@ -43,25 +39,9 @@ This program was written strictly for election held at the county level. However
 -On line 89, change the following line of code to your choice of election:
 
     f"County Votes:\n")
+    
 -On line 116, change the following line of code to your choice of election:
+
     f"Largest County Turnout: {winning_county}\n"
 	
 Once the above 2 changes are made, this Python program can be run for any types of elections.
-=======
-* There were 369,711 votes cast in the election
-* The cadididates were:
-	* Charles Casper Stockham
-	* Diana DeGette
-	* Raymon Anthony Doane
-* The candidate results were:
-	* Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes
-	* Diana DeGettereceived 73.8% of the vote and 272,892 number of votes
-	* Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes
-* The Winner of the election was:
- 	* Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
-	
-## Challenge Overview
-
-## Challenge Summary
-
->>>>>>> fdd41b2ba234b1a8012fc9a3903a153b6533ab4f
