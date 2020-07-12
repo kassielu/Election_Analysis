@@ -37,11 +37,11 @@ The analysis of the election show that:
 ## Challenge Summary
 This program was written strictly for election held at the county level. However, with minor modifictations, this program can be used for any elections. In my Python code file [PyPoll_Challenge](PyPoll_Challenge.py.py), make the following 2 changes in order to run our program for any types of elections:
 
--On line 89, change the following line of code to your choice of election:
+- On line 89, change the following line of code to your choice of election:
 
     f"County Votes:\n")
     
--On line 116, change the following line of code to your choice of election:
+- On line 116, change the following line of code to your choice of election:
 
     f"Largest County Turnout: {winning_county}\n"
 	
